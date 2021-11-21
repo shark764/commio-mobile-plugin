@@ -13,14 +13,14 @@
     "ios/Plugin/",
     "CommioMobilePlugin.podspec"
   ],
-  "author": "2600Hz",
+  "author": "shark764",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2600hz/commio-mobile-plugin.git"
+    "url": "git+https://github.com/shark764/commio-mobile-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/2600hz/commio-mobile-plugin/issues"
+    "url": "https://github.com/shark764/commio-mobile-plugin/issues"
   },
   "keywords": [
     "capacitor",
